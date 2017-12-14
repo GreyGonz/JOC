@@ -10,9 +10,9 @@ Una segona fase seria fer una màquina Arcade amb maquinari capaç d’executar 
 ### Departmant de programació (DAM): 
 Crear i programar el joc.
 
--Gerard Rey.
--Nataniel Pont. 
--Eric Garcia.
+-Gerard Rey
+-Nataniel Pont 
+-Eric Garcia
 
 ### Departament d’arts gràfiques:
 Crear tota la part gràfica del joc i en la segona fase crear arts per a decorar la màquina Arcade (vinils adhesius per a marquesina, laterals...). 
