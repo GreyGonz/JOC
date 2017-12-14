@@ -33,12 +33,14 @@ Els protagonistes recorreran els diferents nivells de l'institut lluitant contra
 ## Personatges principals
 
 El joc consta de dos personatges principals a escollir (alumne i alumna).
+Per a cada etapa disposaran de 3 vides i una barra d'energia que es recarregarà automàticament.
 
 ### Moviment
 
 - Correr (moviment horitzontal)
 - Saltar
 - Ajupir
+- Dash (Esquivar. Només es podrà utilitzar si la barra d'energia està carregada al 100%)
 
 ### Habilitats
 
@@ -72,5 +74,10 @@ Les diferents etàpes del joc transcorreran dins l'institut, cada etàpa tindrà
 ### Powerups
 
 - Goma: Activa una goma que passa per la pantalla i elimina tots els enemics presents a la mateixa
-- Veguda energètica: La velocitat d'atac, moviment i regeneració d'energia es veuen incrementades
+- Beguda energètica: La velocitat d'atac, moviment i regeneració d'energia es veuen incrementades
 - 
+
+## Modes de joc
+
+- Aventura (Normal)
+- Survival (Pantalla infinita per a batre records de temps i/o puntuació)
