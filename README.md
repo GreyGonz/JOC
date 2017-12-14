@@ -1,7 +1,7 @@
 # Projecte videojoc:
 
 ## Resum
-    Es tracta de fer un joc de plataformes entre els departaments de programació i arts gràfiques de l’Institut de l’Ebre. El departament de programació farà el joc utilitzant els gràfics proporcionats pel departament d’arts gràfiques. 
+Es tracta de fer un joc de plataformes entre els departaments de programació i arts gràfiques de l’Institut de l’Ebre. El departament de programació farà el joc utilitzant els gràfics proporcionats pel departament d’arts gràfiques. 
 
 Una segona fase seria fer una màquina Arcade amb maquinari capaç d’executar el joc i controls necessaris per jugar (joysticks, botons) de mà del departament de mecanització.
 
@@ -10,6 +10,7 @@ Una segona fase seria fer una màquina Arcade amb maquinari capaç d’executar 
 ### Departmant de programació (DAM): 
 Crear i programar el joc.
 
+Alumnes:
     -Gerard Rey
     -Nataniel Pont 
     -Eric Garcia
