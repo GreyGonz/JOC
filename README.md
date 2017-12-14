@@ -11,9 +11,9 @@ Una segona fase seria fer una màquina Arcade amb maquinari capaç d’executar 
 Crear i programar el joc.
 
 Alumnes:
-    -Gerard Rey
-    -Nataniel Pont 
-    -Eric Garcia
+- Gerard Rey
+- Nataniel Pont 
+- Eric Garcia
 
 ### Departament d’arts gràfiques:
 Crear tota la part gràfica del joc i en la segona fase crear arts per a decorar la màquina Arcade (vinils adhesius per a marquesina, laterals...). 
@@ -26,4 +26,41 @@ Buscar el maquinari i controls necessaris per a instal·lar a la màquina Arcade
 
 ## Temàtica del videojoc: 
 
-El videojoc tindrà lloc en el Institut de l’Ebre, els protagonistes seran una alumna i un alumne de cicle mitjà/superior del Institut, es podrà escollir un o dos jugadors simultanis.
+El videojoc tindrà lloc en el Institut de l’Ebre, els protagonistes seran una alumna i un alumne de cicle mitjà/superior de l'Institut, es podrà escollir un o dos jugadors simultanis.
+
+Els protagonistes recorreran els diferents nivells de l'institut lluitant contra enemics diversos per a conseguir el títol que tant ansien.
+
+## Personatges principals
+
+El joc consta de dos personatges principals a escollir (alumne i alumna).
+
+### Moviment
+
+- Correr (moviment horitzontal)
+- Saltar
+- Ajupir-se
+
+### Habilitats
+
+- Atac principal (disparar llàpissos)
+- Atacs especials (...)
+
+## Personatges secundaris
+
+- Professors dels diferents departaments
+- ...
+
+## Escenaris
+
+Les diferents etàpes del joc transcurriràn dins l'institut, cada etàpa tindrà diferents obstacles i temàtiques (i powerups?)
+
+
+- Carrer?
+- Passadissos institut:
+    - Passadis normal
+    - Passadis tenebros
+    - Passadis selvàtic
+- Classes (Sala final de cada passadis on s'haurà de combatre contra un Boss)
+- Sala d'actes?
+
+### Powerups
