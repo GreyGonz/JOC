@@ -38,7 +38,7 @@ El joc consta de dos personatges principals a escollir (alumne i alumna).
 
 - Correr (moviment horitzontal)
 - Saltar
-- Ajupir-se
+- Ajupir
 
 ### Habilitats
 
@@ -47,13 +47,19 @@ El joc consta de dos personatges principals a escollir (alumne i alumna).
 
 ## Personatges secundaris
 
-- Professors dels diferents departaments
-- ...
+Els diferents enemics i personatges que ens trobarem d'urant l'aventura
+
+### Professors (Boss)
+
+- Es troben a les sales finals de cada etàpa (Classes).
+- Constaran de dues etàpes
+- Atacs caracteristics de cada professor (que decidiran els alumnes de cada departament per al seu corresponent professor?)
+- Els professors seràn els diferents caps de departament dels departaments involucrats amb el projecte?
+
 
 ## Escenaris
 
-Les diferents etàpes del joc transcurriràn dins l'institut, cada etàpa tindrà diferents obstacles i temàtiques (i powerups?)
-
+Les diferents etàpes del joc transcorreran dins l'institut, cada etàpa tindrà diferents obstacles i temàtiques (i powerups?)
 
 - Carrer?
 - Passadissos institut:
@@ -64,3 +70,7 @@ Les diferents etàpes del joc transcurriràn dins l'institut, cada etàpa tindr�
 - Sala d'actes?
 
 ### Powerups
+
+- Goma: Activa una goma que passa per la pantalla i elimina tots els enemics presents a la mateixa
+- Veguda energètica: La velocitat d'atac, moviment i regeneració d'energia es veuen incrementades
+- 
